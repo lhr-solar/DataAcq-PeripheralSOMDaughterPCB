@@ -492,6 +492,10 @@
     [
       "9b10eeac-b1da-4b4a-b651-04148a20ecbc",
       "airflowSensor"
+    ],
+    [
+      "0366cb5e-31c7-40b1-9d0c-97ad688b48f0",
+      "temperatureSensor"
     ]
   ],
   "text_variables": {}

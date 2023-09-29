@@ -1559,6 +1559,23 @@
     )
   )
 
+  (sheet (at 125.73 120.65) (size 44.45 24.13) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0366cb5e-31c7-40b1-9d0c-97ad688b48f0)
+    (property "Sheetname" "temperatureSensor" (at 125.73 119.9384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "temperatureSensor.kicad_sch" (at 125.73 145.3646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Telemetry-Peripheral-SOM-Daughterboard-IMU"
+        (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2" (page "3"))
+      )
+    )
+  )
+
   (sheet (at 125.73 154.94) (size 45.72 38.1) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
