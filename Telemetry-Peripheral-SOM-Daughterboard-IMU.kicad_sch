@@ -1559,6 +1559,23 @@
     )
   )
 
+  (sheet (at 125.73 154.94) (size 45.72 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9b10eeac-b1da-4b4a-b651-04148a20ecbc)
+    (property "Sheetname" "airflowSensor" (at 125.73 154.2284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "airflowSensor.kicad_sch" (at 125.73 193.6246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Telemetry-Peripheral-SOM-Daughterboard-IMU"
+        (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2" (page "2"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )

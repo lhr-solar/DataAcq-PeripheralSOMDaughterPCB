@@ -488,6 +488,10 @@
     [
       "637f68f0-cb9c-412a-8573-5d8e7ef6d8a2",
       ""
+    ],
+    [
+      "9b10eeac-b1da-4b4a-b651-04148a20ecbc",
+      "airflowSensor"
     ]
   ],
   "text_variables": {}

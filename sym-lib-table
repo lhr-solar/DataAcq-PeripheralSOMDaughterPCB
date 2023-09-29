@@ -5,4 +5,5 @@
   (lib (name "utsvt-microcontrollers")(type "KiCad")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries/utsvt-microcontrollers.kicad_sym")(options "")(descr ""))
   (lib (name "utsvt-misc")(type "KiCad")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries/utsvt-misc.kicad_sym")(options "")(descr ""))
   (lib (name "utsvt-power-regulators")(type "KiCad")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries/utsvt-power-regulators.kicad_sym")(options "")(descr ""))
+  (lib (name "Telemetry Daughterboard")(type "KiCad")(uri "C:/Users/frank/Documents/github/Solar/Local/Telemetry Daughterboard.kicad_sym")(options "")(descr ""))
 )
