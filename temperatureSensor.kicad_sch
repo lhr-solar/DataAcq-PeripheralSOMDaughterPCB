@@ -290,7 +290,7 @@
     (property "Reference" "R1" (at 60.96 68.58 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R" (at 60.96 71.12 90)
+    (property "Value" "0" (at 60.96 71.12 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 60.96 76.708 90)
