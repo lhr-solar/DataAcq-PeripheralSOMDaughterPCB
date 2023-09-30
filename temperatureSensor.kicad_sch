@@ -471,7 +471,7 @@
     (property "Value" "LMT87LPG" (at 116.84 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "LMT87LPG" (at 116.84 169.85 0)
+    (property "Footprint" "UTSVT_ICs:LMT87LPG" (at 116.84 169.85 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/lmt87" (at 116.84 269.85 0)
