@@ -298,7 +298,7 @@
     (property "Reference" "C7" (at 72.39 77.47 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0.1u" (at 72.39 80.01 0)
+    (property "Value" "10n" (at 72.39 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 69.5452 82.55 0)
