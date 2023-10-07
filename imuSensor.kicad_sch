@@ -407,6 +407,11 @@
     (uuid e97245cc-7618-4766-8f5d-9eee30b1c73a)
   )
 
+  (text "IMU Sensor\n" (at 15.24 24.13 0)
+    (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
+    (uuid 6663b962-373d-40b6-8e8c-7ddf21763f59)
+  )
+
   (hierarchical_label "imu_I2C2_SCL" (shape output) (at 166.37 96.52 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 62273f63-2369-4add-84c2-e8d009f8e7e8)
@@ -519,7 +524,7 @@
           (reference "C2") (unit 1)
         )
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2/1c44fd59-b97c-4be4-9bf8-a0e08d703171"
-          (reference "C10") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
       (project "Telemetry-Primary"
@@ -556,7 +561,7 @@
           (reference "C1") (unit 1)
         )
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2/1c44fd59-b97c-4be4-9bf8-a0e08d703171"
-          (reference "C9") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
       (project "Telemetry-Primary"
@@ -618,27 +623,27 @@
     (property "P/N" "LSM6DSV" (at 118.11 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e855a8fe-9008-49b4-95a4-1db383d1414e))
-    (pin "10" (uuid fd1909e9-9f99-44a6-b4b6-28b4a73b7a57))
-    (pin "11" (uuid e0016c53-e95d-470a-8cbe-30e1747aaf65))
-    (pin "12" (uuid 92f4559b-05f6-4bee-aab2-5bcc36102d0d))
-    (pin "13" (uuid 08b7d506-7b9d-4fb9-846c-3d23cb4606ef))
-    (pin "14" (uuid 4e0a6e37-1854-4d8b-b50c-582f3c4ed2fd))
-    (pin "2" (uuid 694a18a6-861b-44df-9a84-855c7d47aaa7))
-    (pin "3" (uuid ba5e6c8f-bc87-4974-8292-cd513cd493a7))
-    (pin "4" (uuid 5dd9ee83-27d4-4439-a598-a004fdeeff76))
-    (pin "5" (uuid dbafa531-246c-46b4-8bc4-a364bbaa5921))
-    (pin "6" (uuid 667bab6c-e619-431b-846d-fe595a84cc70))
-    (pin "7" (uuid 3c720f0a-6dc3-45f8-a0db-540e5561bb3d))
-    (pin "8" (uuid 63dd6b9b-bbb5-499b-8e20-d4cd357f213b))
-    (pin "9" (uuid c5bb7f32-13cd-4917-b167-b22f4f4ee146))
+    (pin "1" (uuid 90e02955-3d74-4e49-bf2d-62b2cf2358ae))
+    (pin "10" (uuid f5fb92e0-ae73-4286-a605-87d5120c5620))
+    (pin "11" (uuid aaf7fd6a-7313-4805-8514-51dd450565a3))
+    (pin "12" (uuid e341c34e-2c27-4324-a4e7-54dbeaa2041a))
+    (pin "13" (uuid d30e8869-7737-4d46-aa21-d8a3b51fd693))
+    (pin "14" (uuid 24e157ae-c864-4bf4-ad3c-e9b7283afba8))
+    (pin "2" (uuid 459f702a-a628-4a04-9ec6-c45d7ecff463))
+    (pin "3" (uuid 033ed764-9b8a-4290-acaf-50e9e66ef572))
+    (pin "4" (uuid 7c9b0c9e-9ea1-4124-8b64-feeb453a436b))
+    (pin "5" (uuid 2459da8d-350d-4a45-bc2c-77d30569a6d9))
+    (pin "6" (uuid 80ecfdbc-2442-4693-abfe-8329462e302e))
+    (pin "7" (uuid a51318c4-ab37-403e-905b-a76b1436f269))
+    (pin "8" (uuid 7b3970a5-24e7-4bfb-81a9-96a6d77f5e99))
+    (pin "9" (uuid e04bdd04-278b-4ca7-9791-074d18f421f2))
     (instances
       (project "Telemetry-Peripheral-SOM-Daughterboard-IMU"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
           (reference "U1") (unit 1)
         )
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2/1c44fd59-b97c-4be4-9bf8-a0e08d703171"
-          (reference "U2") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )

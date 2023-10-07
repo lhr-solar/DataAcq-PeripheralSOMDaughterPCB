@@ -479,7 +479,7 @@
   (symbol (lib_id "utsvt-chips:FS3000-1015") (at 132.08 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8edbfd2e-504e-49f1-a634-efd282d903f6)
-    (property "Reference" "IC2" (at 146.05 80.01 0)
+    (property "Reference" "IC1" (at 146.05 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "FS3000-1015" (at 146.05 82.55 0)
@@ -518,7 +518,7 @@
     (instances
       (project "Telemetry-Peripheral-SOM-Daughterboard-IMU"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2/9b10eeac-b1da-4b4a-b651-04148a20ecbc"
-          (reference "IC2") (unit 1)
+          (reference "IC1") (unit 1)
         )
       )
     )
