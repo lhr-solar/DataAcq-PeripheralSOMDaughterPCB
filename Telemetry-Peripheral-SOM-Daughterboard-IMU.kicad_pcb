@@ -1767,6 +1767,9 @@
   (via (at 167.75 86.25) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (net 24) (tstamp c74e5c9b-a851-40f9-ab1c-0ce16e0110df))
   (segment (start 167.75 86.25) (end 163.75 86.25) (width 0.25) (layer "B.Cu") (net 24) (tstamp 70524340-ec11-42ca-b55f-3c43799cc499))
   (segment (start 163.75 86.25) (end 162.5 87.5) (width 0.25) (layer "B.Cu") (net 24) (tstamp edf121d6-1a60-4002-92e5-d579ba15d577))
+  (via (at 163.587499 80) (size 0.6) (drill 0.3) (layers "F.Cu" "B.Cu") (net 29) (tstamp 77e0c04b-f8de-49f1-a047-8a3c9687500b))
+  (segment (start 163.8189 78.822901) (end 163.8189 79.768599) (width 0.25) (layer "B.Cu") (net 29) (tstamp 5769c2ef-f59b-4ec9-8353-e2b2657afd8e))
+  (segment (start 163.8189 79.768599) (end 163.587499 80) (width 0.25) (layer "B.Cu") (net 29) (tstamp dd36c8ea-9bb5-46f0-a08c-ee5124cad47d))
 
   (zone (net 2) (net_name "+3.3V") (layer "F.Cu") (tstamp d3af4fa1-ae8e-4f88-8664-d615dc51c180) (hatch edge 0.5)
     (priority 1)
