@@ -553,8 +553,8 @@
     (property "P/N" "C0805C104K5RAC7411" (at 97.79 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1fc36e12-da19-4d73-bc00-11e5b9ead612))
-    (pin "2" (uuid 95dd57dc-a8ab-4e46-a50f-44ca1d859463))
+    (pin "1" (uuid 379d202e-35f9-4009-a494-7a7f2bb0d079))
+    (pin "2" (uuid 02208afb-88a8-497a-99ad-682f7fcbf01a))
     (instances
       (project "Telemetry-Peripheral-SOM-Daughterboard-IMU"
         (path "/637f68f0-cb9c-412a-8573-5d8e7ef6d8a2"
