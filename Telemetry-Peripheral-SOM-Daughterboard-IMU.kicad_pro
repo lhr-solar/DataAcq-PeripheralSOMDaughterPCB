@@ -511,15 +511,7 @@
     ],
     [
       "0366cb5e-31c7-40b1-9d0c-97ad688b48f0",
-      "temperatureSensor1"
-    ],
-    [
-      "77daee33-11f8-432f-a415-017f7b28dc11",
-      "temperatureSensor2"
-    ],
-    [
-      "5542d029-5813-4503-91aa-e34e1416dbcf",
-      "temperatureSensor3"
+      "temperatureSensors"
     ]
   ],
   "text_variables": {}
