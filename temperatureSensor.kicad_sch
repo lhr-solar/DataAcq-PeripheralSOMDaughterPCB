@@ -565,6 +565,11 @@
     (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
     (uuid 42f636f7-bc8c-4033-9d4d-21ccc435be7c)
   )
+  (text "https://utexas.sharepoint.com/sites/ENGR-LonghornRacing/LHR%20Solar/Electrical\n/Data%20Acquisition/Datasheets/REN_FS3000_DST_20230207.pdf?CT=1698506826192&OR=ItemsView\n"
+    (at 179.07 31.75 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5954b491-b0a0-4bc2-bc3c-83dae3131bc6)
+  )
   (text "3" (at 15.24 149.86 0)
     (effects (font (size 4 4) (thickness 0.8) bold) (justify left bottom))
     (uuid 7bd51265-6f16-40a2-ae4d-5638de970c98)
