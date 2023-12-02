@@ -7,4 +7,4 @@ This board takes inputs from an IMU, airflow sensor, and three temp sensors and 
 
 ## BOM
 
-[**Mouser Cart**](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=14290df2b1)
+[**Mouser Cart**](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=6005ad65a9)
